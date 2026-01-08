@@ -52,7 +52,6 @@ The project answers questions from **basic to advanced SQL level**, such as:
 - Top-selling artists
 - Customer spending analysis using joins and subqueries
 - Revenue trends using aggregation functions
-
 ---
 
 ## 📊 Key SQL Concepts Used
