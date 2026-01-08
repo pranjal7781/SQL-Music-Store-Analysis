@@ -61,3 +61,4 @@ The project answers questions from **basic to advanced SQL level**, such as:
 - Subqueries
 - Aggregate functions (`SUM`, `AVG`, `COUNT`)
 - Sorting and filtering data.
+
