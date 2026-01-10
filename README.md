@@ -31,7 +31,7 @@ The database contains multiple tables related to a digital music store, includin
 - `media_type`
 
 The dataset represents customer purchases, music tracks, artists, and sales transactions.
-
+ 
 ---
 
 ## 🎯 Business Questions Solved
