@@ -7,7 +7,7 @@ The analysis answers real-world business questions related to customers, sales, 
 This project is part of my **Data Analyst portfolio** and demonstrates my SQL querying, problem-solving, and data analysis skills.
 
 ---
- 
+
 ## 🛠️ Tools & Technologies Used
 - PostgreSQL
 - pgAdmin 4
